@@ -89,8 +89,9 @@ Kelas : SIA Kelas A
 <br><br>
 
 ## Tampilan Login
-![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/5812cce9-f41e-457c-aaf1-09b399d38da1)
+![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/5812cce9-f41e-457c-aaf1-09b399d38da1)\
 
+------------------
 ## Tampilan sebagai Admin
 ![WhatsApp Image 2023-12-02 at 22 35 15_6e3994f3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/ec26b54e-3dde-46d4-a598-f2ee4fe62027)
 
@@ -102,7 +103,7 @@ Kelas : SIA Kelas A
 
 ![WhatsApp Image 2023-12-02 at 22 39 13_b02e9089](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/dac369e7-485f-4a2c-8828-ea3e4fa9d54b)
 
-
+---------------------
 ## Tamipan sebagai Manajer
 ![WhatsApp Image 2023-12-02 at 22 44 23_32148e2c](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/971210a0-b98e-48c3-903b-d498b93dc0bf)
 
@@ -118,6 +119,7 @@ Kelas : SIA Kelas A
 
 ![WhatsApp Image 2023-12-02 at 22 48 48_0317c6a3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/191b0b54-2d98-47e8-a10f-4259acc8247c)
 
+-------------------
 ## Tampilan sebagai Kasir
 ![WhatsApp Image 2023-12-02 at 22 49 32_81f170bf](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/509cc7b4-101d-49b3-9e08-2a0e57b694c9)
 
@@ -126,6 +128,9 @@ Kelas : SIA Kelas A
 ![WhatsApp Image 2023-12-02 at 22 50 05_7e2765ae](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6b3d8e88-00ba-4962-b93b-7abc6c33d52d)
 
 ---------------
+## Flowchart
+![Screenshot 2023-12-03 133010](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/9186cc1d-c367-4d88-abec-bb58ddcce27e)
+
 
 ## 💻 Panduan Instalasi Project
 
