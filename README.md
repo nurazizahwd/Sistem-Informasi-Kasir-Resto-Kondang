@@ -227,8 +227,5 @@ password: asd321
 https://github.com/Arielanaskar/app_kasir_restoran
 
 
-🧑 Pemilik
 
-👤  <a href="https://www.instagram.com/arilanaskar_/"> **Ariel Anaskar**</a>
-- Facebook : <a href="https://web.facebook.com/ariel.anaskar.95"> Ariel Anaskar</a>
 
