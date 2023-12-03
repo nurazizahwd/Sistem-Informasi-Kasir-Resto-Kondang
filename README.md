@@ -136,6 +136,33 @@ Kelas : SIA Kelas A
 **1. activity_logs**
 ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6672fafa-c449-45d8-921c-dec2d0300b31)
 
+**2. failed_jobs**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/4813cb55-21c3-4865-8676-cf197f4091ae)
+
+**3. levels**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/f103fb02-b44f-4858-a445-cb72c9f47e90)
+
+**4. menus**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/2ee90c0d-b824-45fc-9527-4939c753c5bc)
+
+**5. migrations**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/9c82cfee-82ac-4bab-b880-00f1a9641042)
+
+**6. password_resets**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/3801ae45-d4ec-4960-9b7f-c24185d81460)
+
+**7. personal_access_tokens**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/af2f9807-b539-443b-85de-411f27458979)
+
+**8. transactions**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/c3d0ebd0-043e-4eaa-9b89-7512af2a822c)
+
+**9. transactions_details**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/c8bd3ac5-832c-4ae6-9cb3-dd560e1114ee)
+
+**10. users**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/9091e407-7449-4557-9fb4-56a5e882cc64)
+
 ---------------
 ## Designer
 ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6e8356e6-3b2a-438b-a702-a6423f32c361)
