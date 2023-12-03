@@ -130,7 +130,7 @@ Kelas : SIA Kelas A
 ---------------
 
 ## Database XAMPP (PHPMyAdmin)
-**app_kasir_restoran**
+**stucture app_kasir_restoran**
 ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/d05fbd3a-0011-4c3e-9217-99d131501775)
 
 **1. activity_logs**
