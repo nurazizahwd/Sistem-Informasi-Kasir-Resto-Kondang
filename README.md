@@ -89,7 +89,7 @@ Kelas : SIA Kelas A
 <br><br>
 
 ## Tampilan Login
-![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/5812cce9-f41e-457c-aaf1-09b399d38da1)\
+![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/5812cce9-f41e-457c-aaf1-09b399d38da1)
 
 ------------------
 ## Tampilan sebagai Admin
@@ -126,6 +126,19 @@ Kelas : SIA Kelas A
 ![WhatsApp Image 2023-12-02 at 22 49 46_2d871547](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/a85c9127-b68d-473d-a52c-1df4f1356dc3)
 
 ![WhatsApp Image 2023-12-02 at 22 50 05_7e2765ae](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6b3d8e88-00ba-4962-b93b-7abc6c33d52d)
+
+---------------
+
+## Database XAMPP (PHPMyAdmin)
+**app_kasir_restoran**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/d05fbd3a-0011-4c3e-9217-99d131501775)
+
+**1. activity_logs**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6672fafa-c449-45d8-921c-dec2d0300b31)
+
+---------------
+## Designer
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/6e8356e6-3b2a-438b-a702-a6423f32c361)
 
 ---------------
 ## Flowchart
