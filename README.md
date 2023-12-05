@@ -91,7 +91,7 @@
 <br><br>
 
 ## Tampilan Login
-    ![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/5812cce9-f41e-457c-aaf1-09b399d38da1)
+![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/495aa58d-02a5-4512-9f92-cf084ec8ad90)
 
 ------------------
 ## Tampilan sebagai Admin
