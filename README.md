@@ -1,9 +1,10 @@
 ## Identitas
-Nama : Nur Azizah Wulandari
-
-NIM  :12030122120047
-
-Kelas : SIA Kelas A
+<table align="center">
+  <tr><td>Nama</td><td>Nur Azizah Wulandari</td></tr>
+  <tr><td>NIM</td><td>12030122120047</td></tr>
+  <tr><td>Mata Kuliah</td><td>Sistem Informasi Akuntansi Kelas A</td></tr>
+  <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
+</table>
 
 ----------------
 ## Tampilan Logo
