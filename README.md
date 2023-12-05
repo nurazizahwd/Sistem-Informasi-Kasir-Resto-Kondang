@@ -1,5 +1,4 @@
-<p align="center">
-  ## Identitas
+## Identitas
 <table align="center">
   <tr><td>Nama</td><td>Nur Azizah Wulandari</td></tr>
   <tr><td>NIM</td><td>12030122120047</td></tr>
